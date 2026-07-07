@@ -67,18 +67,18 @@
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/mahivardhan-p/">
+<img src="https://img.shields.io/badge/LinkedIn-Mahivardhan_P-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="mailto:mahi.vit25@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-mahi.vit25%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
