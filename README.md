@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Mahi-P-25/Mahi-P-25/main/banner.png" width="100%" alt="Galaxy Banner"/>
@@ -7,31 +6,27 @@
 
 ### 💜 Aspiring Software Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=C770F0&center=true&vCenter=true&width=750&lines=B.Tech+ECE+Student+at+VIT-AP;Aspiring+Software+Engineer;Python+%7C+Java+%7C+DSA;Building+Real-World+Projects;Always+Learning+Something+New)](https://git.io/typing-svg)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24,30&section=header"/>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=C770F0&center=true&vCenter=true&width=750&lines=B.Tech+ECE+Student+at+VIT-AP;Aspiring+Software+Engineer;Python+Developer;Java+Developer;Building+Real-World+Projects;Always+Learning+Something+New)](https://git.io/typing-svg)
 
 </div>
 
-# 🚀 About Me
+<br>
+
+## 🚀 About Me
 
 🎓 **B.Tech ECE Student** at **VIT-AP University**
 
 💻 Passionate about software development and problem solving.
 
-🌱 Currently learning **Python, Java, Data Structures & Algorithms**
+🌱 Currently learning **Python, Java, HTML, CSS and Data Structures & Algorithms.**
 
-🚀 Building projects that improve my programming and development skills.
+🚀 Building projects to improve my programming skills every day.
 
-🎯 Goal: Become a **Full-Stack Software Engineer** and contribute to Open Source.
+🎯 My goal is to become a **Full-Stack Software Engineer** and contribute to Open Source.
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30"/>
-</p>
+<br>
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -39,24 +34,31 @@
 
 </div>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=24,20,12"/>
-</p>
+<br>
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🌐 Portfolio Website | Responsive portfolio website *(Coming Soon)* |
-| 🐍 Python Projects | Python practice and automation projects |
-| ☕ Java & DSA | Java learning and DSA solutions |
-| 🎮 Roblox Game | Anime-inspired game currently in development |
+> 🌐 **Portfolio Website** *(Coming Soon)*  
+> A modern personal portfolio showcasing my work, skills and journey.
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=30,24,20,12"/>
-</p>
+<br>
 
-# 📚 Currently Learning
+> 🐍 **Python Projects**  
+> A collection of Python applications, automation scripts and mini projects.
+
+<br>
+
+> ☕ **Java & DSA**  
+> Java practice projects and Data Structures & Algorithms solutions.
+
+<br>
+
+> 🎮 **Roblox Anime Game** *(In Development)*  
+> An anime-inspired Roblox game currently being developed.
+
+<br>
+
+## 📚 Currently Learning
 
 - 🐍 Python
 - ☕ Java
@@ -64,23 +66,19 @@
 - 🌐 HTML & CSS
 - ⚡ Git & GitHub
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=80&color=gradient&customColorList=12,20,24,30"/>
-</p>
+<br>
 
-# 🎯 Goals for 2026
+## 🎯 Goals for 2026
 
-- ✅ Build 15+ quality projects
-- 📚 Master DSA
-- 🌐 Learn Full Stack Development
+- 🚀 Build 15+ quality software projects
+- 📚 Master Data Structures & Algorithms
+- 🌐 Learn Full-Stack Development
 - 🤝 Contribute to Open Source
 - 💼 Land my first Software Engineering Internship
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&customColorList=30,24,20,12"/>
-</p>
+<br>
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 <div align="center">
 
@@ -96,15 +94,11 @@
 
 </div>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
-</p>
+<br>
 
 <div align="center">
 
-### 💜
-
-> **Code. Build. Improve. Repeat.**
+### 💜 *Code. Build. Improve. Repeat.*
 
 ⭐ Thanks for visiting my profile!
 
