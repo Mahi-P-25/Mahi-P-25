@@ -1,78 +1,86 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Mahi-P-25/Mahi-P-25/main/banner.png" width="100%" alt="Banner"/>
+<img src="https://raw.githubusercontent.com/Mahi-P-25/Mahi-P-25/main/banner.png" width="100%" alt="Galaxy Banner"/>
 
-# Hi, I'm Mahivardhan 👋
+# 👋 Hi, I'm Mahivardhan
 
-### 💻 Aspiring Software Engineer
+### 💜 Aspiring Software Engineer
 
-🎓 B.Tech ECE Student @ VIT-AP University
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=C770F0&center=true&vCenter=true&width=700&lines=B.Tech+ECE+Student+at+VIT-AP;Python+Developer;Java+Developer;Learning+Data+Structures+%26+Algorithms;Building+Real-World+Projects)](https://git.io/typing-svg)
 
-🌱 Currently learning **Python • Java • DSA**
-
-🚀 Building real-world projects
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Python+Developer;Java+Programmer;Learning+DSA;Building+Projects)](https://git.io/typing-svg)
+![](https://komarev.com/ghpvc/?username=Mahi-P-25&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge)
 
 </div>
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 About Me
 
-<p align="center">
+🎓 **B.Tech ECE Student** at **VIT-AP University**
 
-<img src="https://skillicons.dev/icons?i=python,java,git,github,vscode,html,css&theme=dark"/>
+💻 Passionate about Software Development
 
-</p>
+🌱 Currently learning **Python, Java, Data Structures & Algorithms**
+
+🚀 Building projects to strengthen my development skills
+
+🎯 Goal: Become a **Full Stack Software Engineer** and contribute to Open Source
 
 ---
 
-## 📊 GitHub Stats
+# 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mahi-P-25&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=python,java,git,github,vscode,html,css&theme=dark" />
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mahi-P-25&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahi-P-25&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Mahi-P-25&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Mahi-P-25&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
-</p>
+</div>
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Activity
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahi-P-25&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-## 🚀 Current Goals
+# 🎯 Current Goals
 
 - 🚀 Build real-world software projects
 - 📚 Master Data Structures & Algorithms
@@ -81,24 +89,28 @@
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-<p align="center">
+<div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="mailto:YOUR_EMAIL">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-> **"Code. Build. Improve. Repeat."** 🚀
+### 💜 *Code. Build. Improve. Repeat.*
+
+⭐ Thanks for visiting my profile!
 
 </div>
