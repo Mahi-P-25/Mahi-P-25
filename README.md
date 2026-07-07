@@ -6,7 +6,7 @@
 
 ### 💜 Aspiring Software Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=C770F0&center=true&vCenter=true&width=750&lines=B.Tech+ECE+Student+at+VIT-AP;Aspiring+Software+Engineer;Python+Developer;Java+Developer;Building+Real-World+Projects;Always+Learning+Something+New)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=C770F0&center=true&vCenter=true&width=750&lines=B.Tech+ECE+Student+at+VIT-AP;Aspiring+Software+Engineer;Building+Real-World+Projects;Learning+Python+%7C+Java+%7C+DSA;Always+Learning+Something+New)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,67 +14,53 @@
 
 ## 🚀 About Me
 
-🎓 **B.Tech ECE Student** at **VIT-AP University**
+🎓 B.Tech ECE Student at **VIT-AP University**
 
-💻 Passionate about software development and problem solving.
+💻 Passionate about software development and building useful applications.
 
-🌱 Currently learning **Python, Java, HTML, CSS and Data Structures & Algorithms.**
+🌱 Currently exploring **Python, Java, Data Structures & Algorithms**, and modern web development.
 
-🚀 Building projects to improve my programming skills every day.
+🚀 I enjoy learning by building real-world projects and improving every day.
 
-🎯 My goal is to become a **Full-Stack Software Engineer** and contribute to Open Source.
+🎯 My goal is to become a **Full-Stack Software Engineer** and contribute to impactful software.
 
 <br>
 
-## 🛠️ Tech Stack
+## 🚧 Currently Building
 
-<div align="center">
+🌐 **Personal Portfolio Website**
 
-<img src="https://skillicons.dev/icons?i=python,java,git,github,vscode,html,css&theme=dark"/>
+🐍 **Python Mini Projects**
 
-</div>
+☕ **Java + DSA Repository**
+
+🎮 **Anime-Inspired Roblox Game**
 
 <br>
 
 ## 🚀 Featured Projects
 
-> 🌐 **Portfolio Website** *(Coming Soon)*  
-> A modern personal portfolio showcasing my work, skills and journey.
+### 🌐 Portfolio Website *(Coming Soon)*
 
-<br>
+A modern personal portfolio showcasing my skills, projects, and journey.
 
-> 🐍 **Python Projects**  
-> A collection of Python applications, automation scripts and mini projects.
+---
 
-<br>
+### 🐍 Python Projects
 
-> ☕ **Java & DSA**  
-> Java practice projects and Data Structures & Algorithms solutions.
+A collection of Python projects ranging from beginner exercises to practical automation tools.
 
-<br>
+---
 
-> 🎮 **Roblox Anime Game** *(In Development)*  
-> An anime-inspired Roblox game currently being developed.
+### ☕ Java + DSA
 
-<br>
+Java programs, object-oriented programming practice, and Data Structures & Algorithms solutions.
 
-## 📚 Currently Learning
+---
 
-- 🐍 Python
-- ☕ Java
-- 📖 Data Structures & Algorithms
-- 🌐 HTML & CSS
-- ⚡ Git & GitHub
+### 🎮 Roblox Anime Game *(In Development)*
 
-<br>
-
-## 🎯 Goals for 2026
-
-- 🚀 Build 15+ quality software projects
-- 📚 Master Data Structures & Algorithms
-- 🌐 Learn Full-Stack Development
-- 🤝 Contribute to Open Source
-- 💼 Land my first Software Engineering Internship
+An anime-inspired multiplayer Roblox experience currently under development.
 
 <br>
 
@@ -86,7 +72,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-Mahivardhan_P-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 <a href="mailto:mahi.vit25@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-mahi.vit25%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -98,9 +84,8 @@
 
 <div align="center">
 
-### 💜 *Code. Build. Improve. Repeat.*
+### 💜 *"Code. Build. Improve. Repeat."*
 
 ⭐ Thanks for visiting my profile!
 
 </div>
-
