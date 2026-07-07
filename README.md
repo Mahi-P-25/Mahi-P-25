@@ -2,11 +2,11 @@
 
 🎓 B.Tech ECE Student at VIT-AP University
 
-💻 💻 Aspiring Software Engineer | Building Projects
+💻 Aspiring Software Engineer | Building Projects
 
-🌱 🌱 Currently learning Python, Java & DSA
+🌱 Currently learning Python, Java & DSA
 
-🚀 🚀 Learning by building real-world projects.
+🚀 Learning by building real-world projects.
 
 ## 🛠️ Skills
 - Python
