@@ -4,9 +4,9 @@
 
 # 👋 Hi, I'm Mahivardhan
 
-### 💜 Aspiring Software Engineer
+### 💜 Software Engineering Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=C770F0&center=true&vCenter=true&width=750&lines=B.Tech+ECE+Student+at+VIT-AP;Aspiring+Software+Engineer;Building+Real-World+Projects;Learning+Python+%7C+Java+%7C+DSA;Always+Learning+Something+New)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=C770F0&center=true&vCenter=true&width=750&lines=B.Tech+ECE+Student+at+VIT-AP;Software+Engineering+Enthusiast;Building+Real-World+Projects;Learning+Python+%7C+Java+%7C+DSA;Always+Learning+Something+New)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,13 +14,13 @@
 
 ## 🚀 About Me
 
-🎓 B.Tech ECE Student at **VIT-AP University**
+🎓 **B.Tech ECE Student** at **VIT-AP University**
 
 💻 Passionate about software development and building useful applications.
 
 🌱 Currently exploring **Python, Java, Data Structures & Algorithms**, and modern web development.
 
-🚀 I enjoy learning by building real-world projects and improving every day.
+🎮 Enthusiast Game Developer who enjoys learning by creating interactive experiences.
 
 🎯 My goal is to become a **Full-Stack Software Engineer** and contribute to impactful software.
 
@@ -34,7 +34,7 @@
 
 ☕ **Java + DSA Repository**
 
-🎮 **Anime-Inspired Roblox Game**
+🎮 **Exploring Game Development**
 
 <br>
 
@@ -55,12 +55,6 @@ A collection of Python projects ranging from beginner exercises to practical aut
 ### ☕ Java + DSA
 
 Java programs, object-oriented programming practice, and Data Structures & Algorithms solutions.
-
----
-
-### 🎮 Roblox Anime Game *(In Development)*
-
-An anime-inspired multiplayer Roblox experience currently under development.
 
 <br>
 
