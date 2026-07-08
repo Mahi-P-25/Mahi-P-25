@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Mahi-P-25/Mahi-P-25/main/banner.png" width="100%" alt="Galaxy Banner"/>
+<img src="https://raw.githubusercontent.com/Mahi-P-25/Mahi-P-25/main/banner%20pro.png" width="100%" alt="Profile Banner"/>
 
 # 👋 Hi, I'm Mahi vardhan
 
