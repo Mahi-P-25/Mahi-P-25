@@ -78,7 +78,7 @@ Java programs, object-oriented programming practice, and Data Structures & Algor
 
 <div align="center">
 
-### 💜 *"Code. Build. Improve. Repeat."*
+### <span style="color:#B0B0B0">Building Real-World Projects</span> *"Code. Build. Improve. Repeat."*
 
 ⭐ Thanks for visiting my profile!
 
