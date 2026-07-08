@@ -40,11 +40,25 @@
 
 ## 🚀 Featured Projects
 
-### 🌐 Portfolio Website *(Coming Soon)*
+<div align="center">
 
-A modern personal portfolio showcasing my skills, projects, and journey.
+# 01
 
----
+# Portfolio
+
+> Modern • Minimal • Interactive
+
+<br>
+
+<a href="https://portfolio-rouge-xi-50.vercel.app/">
+<img src="https://img.shields.io/badge/Visit%20Website-111111?style=for-the-badge&logo=vercel&logoColor=F5F5F5&labelColor=111111&color=B08D57"/>
+</a>
+
+<br><br>
+
+*"Building meaningful software projects with curiosity and consistency."*
+
+</div>
 
 ### 🐍 Python Projects
 
