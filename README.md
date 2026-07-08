@@ -2,9 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/Mahi-P-25/Mahi-P-25/main/banner%20pro.png" width="100%" alt="Profile Banner"/>
 
-# 👋 Hi, I'm Mahi vardhan
+# Hi, I'm Mahi vardhan
 
-### 💜 Software Engineering Enthusiast
+###  Software Engineering Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=C770F0&center=true&vCenter=true&width=750&lines=B.Tech+ECE+Student+at+VIT-AP;Software+Engineering+Enthusiast;Building+Real-World+Projects;Learning+Python+%7C+Java+%7C+DSA;Always+Learning+Something+New)](https://git.io/typing-svg)
 
