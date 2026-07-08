@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Mahi-P-25/Mahi-P-25/main/banner.png" width="100%" alt="Galaxy Banner"/>
 
-# 👋 Hi, I'm Mahivardhan
+# 👋 Hi, I'm Mahi vardhan
 
 ### 💜 Software Engineering Enthusiast
 
